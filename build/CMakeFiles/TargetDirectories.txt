@@ -1,0 +1,3 @@
+/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/build/CMakeFiles/Course.dir
+/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Course.dir/main.cpp.o -c \"/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/main.cpp\"",
+  "file": "/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/main.cpp",
+  "output": "CMakeFiles/Course.dir/main.cpp.o"
+}
+]
