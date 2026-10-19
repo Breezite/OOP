@@ -129,29 +129,29 @@ Course/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Course.dir/build.make CMakeFiles/Course.dir/build
 .PHONY : Course/fast
 
-main.o: main.cpp.o
-.PHONY : main.o
+Binops.o: Binops.cpp.o
+.PHONY : Binops.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Course.dir/build.make CMakeFiles/Course.dir/main.cpp.o
-.PHONY : main.cpp.o
+Binops.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Course.dir/build.make CMakeFiles/Course.dir/Binops.cpp.o
+.PHONY : Binops.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+Binops.i: Binops.cpp.i
+.PHONY : Binops.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Course.dir/build.make CMakeFiles/Course.dir/main.cpp.i
-.PHONY : main.cpp.i
+Binops.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Course.dir/build.make CMakeFiles/Course.dir/Binops.cpp.i
+.PHONY : Binops.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+Binops.s: Binops.cpp.s
+.PHONY : Binops.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Course.dir/build.make CMakeFiles/Course.dir/main.cpp.s
-.PHONY : main.cpp.s
+Binops.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Course.dir/build.make CMakeFiles/Course.dir/Binops.cpp.s
+.PHONY : Binops.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Course"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Binops.o"
+	@echo "... Binops.i"
+	@echo "... Binops.s"
 .PHONY : help
 
 

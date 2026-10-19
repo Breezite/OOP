@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Course.dir/main.cpp.o"
-  "CMakeFiles/Course.dir/main.cpp.o.d"
+  "CMakeFiles/Course.dir/Binops.cpp.o"
+  "CMakeFiles/Course.dir/Binops.cpp.o.d"
   "Course"
   "Course.pdb"
 )

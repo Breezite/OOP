@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/Course.dir/main.cpp.o -o Course 
+/usr/bin/c++ -g CMakeFiles/Course.dir/Binops.cpp.o -o Course 

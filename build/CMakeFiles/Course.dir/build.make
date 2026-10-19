@@ -69,28 +69,28 @@ include CMakeFiles/Course.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Course.dir/flags.make
 
-CMakeFiles/Course.dir/main.cpp.o: CMakeFiles/Course.dir/flags.make
-CMakeFiles/Course.dir/main.cpp.o: /mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd\ Year/Object\ Oriented\ Programming/Course/main.cpp
-CMakeFiles/Course.dir/main.cpp.o: CMakeFiles/Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Course.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Course.dir/main.cpp.o -MF CMakeFiles/Course.dir/main.cpp.o.d -o CMakeFiles/Course.dir/main.cpp.o -c "/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/main.cpp"
+CMakeFiles/Course.dir/Binops.cpp.o: CMakeFiles/Course.dir/flags.make
+CMakeFiles/Course.dir/Binops.cpp.o: /mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd\ Year/Object\ Oriented\ Programming/Course/Binops.cpp
+CMakeFiles/Course.dir/Binops.cpp.o: CMakeFiles/Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Course.dir/Binops.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Course.dir/Binops.cpp.o -MF CMakeFiles/Course.dir/Binops.cpp.o.d -o CMakeFiles/Course.dir/Binops.cpp.o -c "/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/Binops.cpp"
 
-CMakeFiles/Course.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Course.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/main.cpp" > CMakeFiles/Course.dir/main.cpp.i
+CMakeFiles/Course.dir/Binops.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Course.dir/Binops.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/Binops.cpp" > CMakeFiles/Course.dir/Binops.cpp.i
 
-CMakeFiles/Course.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Course.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/main.cpp" -o CMakeFiles/Course.dir/main.cpp.s
+CMakeFiles/Course.dir/Binops.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Course.dir/Binops.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/Binops.cpp" -o CMakeFiles/Course.dir/Binops.cpp.s
 
 # Object files for target Course
 Course_OBJECTS = \
-"CMakeFiles/Course.dir/main.cpp.o"
+"CMakeFiles/Course.dir/Binops.cpp.o"
 
 # External object files for target Course
 Course_EXTERNAL_OBJECTS =
 
-Course: CMakeFiles/Course.dir/main.cpp.o
+Course: CMakeFiles/Course.dir/Binops.cpp.o
 Course: CMakeFiles/Course.dir/build.make
 Course: CMakeFiles/Course.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/mnt/c/Users/mifsu/OneDrive/Desktop/UOM/2nd Year/Object Oriented Programming/Course/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Course"
